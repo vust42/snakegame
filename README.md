@@ -1,8 +1,7 @@
 # Змейка
 
 1. Перед началом установите:
-Python 3.8+
-Pygame: pip install pygame
+Python 3.8+ и Pygame: pip install pygame
 2. Запустите "main.py".
 
 Управление:
