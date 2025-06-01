@@ -9,7 +9,7 @@ Pygame: pip install pygame
 ← → ↑ ↓ - Изменение направления
 P - Пауза
 
-# Вы можете изменить игровые настройки в config.py.
+Вы можете изменить игровые настройки в config.py.
 
 # Змейка растет при поедании еды.
 ![Новый проект](https://github.com/user-attachments/assets/aa9dd1dc-4859-4671-8f6e-02cc221f27c7)
