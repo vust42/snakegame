@@ -10,3 +10,6 @@
 # P - Пауза
 
 # Вы можете изменить игровые настройки в config.py.
+
+![Новый проект](https://github.com/user-attachments/assets/aa9dd1dc-4859-4671-8f6e-02cc221f27c7)
+![Новый проек2т](https://github.com/user-attachments/assets/e58f000b-784b-4d44-97a2-28fbe8ad6e7a)
